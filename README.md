@@ -40,3 +40,7 @@ O형
 ## 푸터
 
 - footer.md 추가
+
+## 사이드바 만들기
+
+- sidebar.md 추가
